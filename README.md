@@ -34,8 +34,6 @@ I’m a Full Stack Web Developer with a B.Tech in Computer Science & Engineering
 **Database & Cloud:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
 ---
 
